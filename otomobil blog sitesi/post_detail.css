@@ -1,0 +1,32 @@
+.post__detail-container{
+    margin: 40px;
+    margin-left: 10%;
+
+
+    
+}
+
+.post__detail-container h1{
+    margin-left: 15%;
+}
+
+.post__detail-container p{
+    color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 18%;
+    margin-left: 14%;
+    margin-bottom: 2%;
+
+}
+
+
+.post__detail-container .post__detail-image{
+    width: 70%;
+    height: 600%;
+    margin-bottom: 5%;
+    margin-left: 13%
+
+    
+
+}
